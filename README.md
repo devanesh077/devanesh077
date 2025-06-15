@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Devanesh
 
 Aspiring Software Engineer | Electronics and Communication Engineering Student
-<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://tenor.com/view/robot-dance-turn-rotate-fun-gif-2785737310717918011)">
+<img align="right" width="370" height="290" src="[https://tenor.com/view/robot-dance-turn-rotate-fun-gif-2785737310717918011]">
 
 - 🎓 ECE Student @ Sri Manakula Vinayagar Engineering College (CGPA: 8.0)
 - 🔭 Building real-world products that drive business efficiency
