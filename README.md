@@ -41,12 +41,12 @@ Aspiring Software Engineer | Electronics and Communication Engineering Student
 - Focus on budget and application-specific solutions
 
 ## 🎯 Areas of Interest
-- Web Technologies & SAP
+- Web Technologies 
 - Backend Systems
 - Digital Electronics & Robotics
 - Embedded Systems
 
-## 📊 GitHub Stats
-![Devanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanesh077&theme=dark&show_icons=true&hide=issues,contribs)
+## 📊 Leetcode Stats
+![Devanesh LeetCode Stats](https://leetcard.jacoblin.cool/devanesh077?theme=dark&font=Arimo)
 
-[![Devanesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devanesh077&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
